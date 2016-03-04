@@ -1,0 +1,8 @@
+See file:///C:/Users/76488/Downloads/EasyARSDKSamples/Android/HelloARVideoNative/app/build/tmp/compileArmeabi-v7aDebugHelloARVideoNativeSharedLibraryHelloARVideoNativeMainCpp/output.txt for all output for compileArmeabi-v7aDebugHelloARVideoNativeSharedLibraryHelloARVideoNativeMainCpp.
+compiling renderer.cc successful.
+
+compiling ar.cc successful.
+
+compiling helloarvideo.cc successful.
+
+Finished compileArmeabi-v7aDebugHelloARVideoNativeSharedLibraryHelloARVideoNativeMainCpp, see full log file:///C:/Users/76488/Downloads/EasyARSDKSamples/Android/HelloARVideoNative/app/build/tmp/compileArmeabi-v7aDebugHelloARVideoNativeSharedLibraryHelloARVideoNativeMainCpp/output.txt.

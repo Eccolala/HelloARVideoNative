@@ -1,0 +1,4 @@
+See file:///C:/Users/76488/Downloads/EasyARSDKSamples/Android/HelloARVideoNative/app/build/tmp/linkArmeabi-v7aDebugHelloARVideoNativeSharedLibrary/output.txt for all output for linkArmeabi-v7aDebugHelloARVideoNativeSharedLibrary.
+linking libHelloARVideoNative.so successful.
+
+Finished linkArmeabi-v7aDebugHelloARVideoNativeSharedLibrary, see full log file:///C:/Users/76488/Downloads/EasyARSDKSamples/Android/HelloARVideoNative/app/build/tmp/linkArmeabi-v7aDebugHelloARVideoNativeSharedLibrary/output.txt.
